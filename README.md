@@ -2,14 +2,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello rails react <a name="about-project"></a>
+# 📖 Hello-Rails-Front-End <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>React on Rails</summary>
+  <summary>Hello-Rails-Front-End</summary>
   <ul>
     <li><a href="https://ruby-doc.org/core-3.1.2/">React</a></li>
   </ul>
@@ -17,6 +17,11 @@
     <li><a href="https://ruby-doc.org/core-3.1.2/">Rails</a></li>
   </ul>
 </details>
+
+
+## Link to the Back-end repository
+
+[hello-rails-back-end](https://github.com/mbdesigns1989/hello-rails-back-end)
 
 <!-- Features -->
 
@@ -36,19 +41,19 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository by using the command line :
 
-- `git clone https://github.com/mbdesigns1989/Hello_Rails_React`
+- `git clone https://github.com/mbdesigns1989/hello-rails-front-end`
 
 ### Install
 
 Install this project with:
 
-`bundle install`
+`npm install (install all dependencies)`
 
 ### Usage
 
 To run the project, execute the following command:
 
-`rails db:create  rails db:seed yarn build --watch rails s `
+`npm start`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,4 +103,4 @@ If you like this project by staring it.
 
 ## 📝 License <a name="license"></a>
 
-This project is [<a href="https://github.com/mbdesigns1989/Hello_Rails_React/blob/featuers-branch/LICENSE">MIT</a>]
+This project is [<a href="https://github.com/mbdesigns1989/hello-rails-front-end/blob/dev/LICENSE">MIT</a>]
